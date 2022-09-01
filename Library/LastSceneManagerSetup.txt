@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/urgeent_dee.unity
+  isLoaded: 1
+  isActive: 1

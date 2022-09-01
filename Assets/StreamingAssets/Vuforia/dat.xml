@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="landscapingstone" size="25.000000 18.750000" />
+    <ImageTarget name="Civil_War" size="10.000000 7.500000" />
+    <ImageTarget name="dog" size="25.000000 20.000000" />
+    <ImageTarget name="Mammoth" size="25.000000 12.500000" />
+    <ImageTarget name="bear" size="25.000000 16.425993" />
+    <ImageTarget name="wolf" size="25.000000 17.525000" />
+    <ImageTarget name="tiger" size="25.000000 37.481697" />
+    <ImageTarget name="elephant" size="25.000000 14.062500" />
+    <ImageTarget name="deer" size="25.000000 18.750000" />
+    <ImageTarget name="dino" size="25.000000 33.419689" />
+    <ImageTarget name="giraffe" size="25.000000 14.062500" />
+  </Tracking>
+</QCARConfig>
